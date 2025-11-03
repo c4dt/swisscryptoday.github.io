@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.16.0/.schema/devbox.schema.json",
+  "packages": [
+    "bundler@latest",
+    "which@latest",
+    "ruby@latest"
+  ],
+  "shell": {
+    "init_hook": [
+      "bundle install",
+      "gem install eventmachine http_parser.rb json bigdecimal"
+    ],
+    "scripts": {
+      "test": [
+        "echo \"Error: no test specified\" && exit 1"
+      ]
+    }
+  }
+}

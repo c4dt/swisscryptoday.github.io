@@ -16,6 +16,8 @@ We are excited to announce that the fifth Swiss Crypto Day, Halloween Edition,
 will be held at the [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch)
 on Friday, October 31st, 2025, 10am to 4pm.
 
+This is a devbox test!
+
 <!-- Next year's Swiss Crypto Day will be organized at [USI](https://www.usi.ch/en). --> 
 
 <!-- ##### When -->
