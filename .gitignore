@@ -1,7 +1,0 @@
-Gemfile.local
-Gemfile.github
-_config.yml.local
-_config.yml.github
-_site
-.sass-cache
-.jekyll-metadata
